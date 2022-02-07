@@ -1,0 +1,137 @@
+/* #body{
+    background-image: url(https://images.unsplash.com/photo-1530122706536-c80ca06b2aad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-repeat:no-repeat;
+    background-size:cover;
+} */
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+#top-bar-login{
+    margin-top: -1.3cm;
+    
+}
+#nav-var{
+    display: inline-flex;
+}
+#pic{
+    display: inline-flex;
+}
+#welcomebtn{
+    display: inline-flex;
+}
+#signup-div{
+    padding-left: 0cm;
+    margin-top: -1.3cm;
+margin-bottom: -3cm;
+
+
+}
+
+#but-signup{
+    margin-top: 0.5cm;
+}
+#home-div{
+    margin-top: -1.3cm;
+}
+#forget-div{
+    height: 14.2cm;
+}
+#forget-sub{
+    width: 20cm;
+    margin-left: 6cm;
+}
+#login-home{
+    margin-left: 30cm;
+}
+#bot-bar-login{
+    margin-bottom: -7cm;
+    height: 1.2cm;
+}
+#i1{
+    border-radius: 25px;
+    border: 2px solid #3596d6;
+    padding: 15px;
+    width: 200px;
+    height: 1px;
+    outline: none;
+    
+}
+#i1:hover {
+    box-shadow:0 0 1px #9bc6e9, 0 0 10px #77a1c2, 0 0 10px #4b83b1;
+}
+#i2{
+    border-radius: 25px;
+    border: 2px solid #3596d6;
+    padding: 15px;
+    width: 200px;
+    height: 1px;
+    outline: none;
+}
+#i2:hover {
+    box-shadow:0 0 1px #9bc6e9, 0 0 10px #77a1c2, 0 0 10px #4b83b1;
+}
+#input{
+    position: absolute;
+    left: 200px;
+    top: 320px;
+}
+#but1{
+    position: absolute;
+    left: 200px;
+    top: 430px;
+    border-radius: 25px;
+    border: 2px solid #3596d6;
+    color: white;
+    background-color: rgb(49, 47, 47);
+    padding: 10px;
+    width: 230px;
+}
+#but1:hover{
+    background: linear-gradient(to right,#4b93ce 70%,rgb(139, 199, 223));
+}
+#p{
+    color:rgb(36, 92, 156);
+    font-family: Hand;
+    position: absolute;
+    left: 660px;
+    top: 200px;
+    font-size: 50px;
+    
+}
+#text{
+    font-family: Montserrat-Regular;
+    font-size: 16px;
+    color: #161616;
+    line-height: 1.4;
+    position: absolute;
+    top: 500px;
+    left: 230px;
+}
+#text2{
+    font-family: Montserrat-Regular;
+    font-size: 20px;
+    color: #161616;
+    line-height: 1.4;
+    position: absolute;
+    top: 600px;
+    left: 230px;
+}
+.fl_search{
+    border-radius: 10px;
+    background: #dbdbdb;
+    padding: 20px;
+    width: 120px;
+    height: 2px;
+}
+#btn-disconnect{
+      margin-left: 23.4cm;
+    }
+    #welcome{
+        display: inline-flex;
+        margin-left: 0.5cm;
+    }
+
+
+    
